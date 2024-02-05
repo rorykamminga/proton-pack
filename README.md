@@ -9,6 +9,7 @@ It draws inspiration from the [Pepe Pack](https://github.com/smooshworx/pepe-pac
 - HEPA filter for pre-filtering before carbon
 - Intake thermistor mount for easy chamber temperature reading
 <br/>
+
 ## Bill of Materials
 
 
