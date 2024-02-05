@@ -26,7 +26,7 @@ Qty | Item
 \**note: these may need to be longer if you have thicker panels/seals, see assembly steps below*
 <br/>
 ## Printed parts/options
-**Fan Housing** - print as-is
+**Fan Housing** - print as-is  
 **Filter Housing** - select one:
 - FilterHousingM6 - for M6 threaded bowden couplings (I recommend drilling these out so that the PTFE can pass through the whole fitting)
 - FilterHousingM10 - for M10 threaded bowden couplings, these should already allow the PTFE to pass through completely
