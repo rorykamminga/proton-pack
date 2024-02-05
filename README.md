@@ -8,7 +8,7 @@ It draws inspiration from the [Pepe Pack](https://github.com/smooshworx/pepe-pac
 - HEPA filter for pre-filtering before the carbon
 - Intake thermistor mount for easy chamber temperature reading
 <br/>
-## Bill of Materials
+## Bill of Materials  
 
 Qty | Item
 --- | ---
@@ -22,6 +22,7 @@ Qty | Item
 12 | 6x3mm round neodymium magnets (either N35 or N52 grade)
 1 | Cartridge style thermistor, 3mm diameter (optional)
 1 | Bag of non-acidic carbon pellets (e.g. Nevermore - see [here](https://github.com/nevermore3d/Nevermore_Micro?tab=readme-ov-file#sourcing-the-proper-acid-free-carbon) for more info on the importance of getting the right carbon)
+
 \**note: these may need to be longer if you have thicker panels/seals, see assembly steps below*
 <br/>
 ## Printed parts/options
