@@ -1,5 +1,5 @@
 # Proton Pack
-![Main](Images/Exploded2.png)
+![Main](Images/Exploded2.PNG)
 ## Introduction
 The Proton Pack is a recirculating air filter designed for the Voron Trident.
 It draws inspiration from the [Pepe Pack](https://github.com/smooshworx/pepe-pack) by smooshworx, but was ultimately sketched and built from scratch.
