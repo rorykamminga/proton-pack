@@ -31,12 +31,12 @@ Qty | Item
 - FilterHousingM6 - for M6 threaded bowden couplings (I recommend drilling these out so that the PTFE can pass through the whole fitting)
 - FilterHousingM10 - for M10 threaded bowden couplings, these should already allow the PTFE to pass through completely
 - FilterHousingPassthru - for passing the bowden tube through with no threaded coupling
-- FilterHousingBlank - no bowden passthru, for use with internal spool holders
+- FilterHousingBlank - no bowden passthru, for use with internal spool holders  
 **Inserts** - print one of each:
 - BasketCover
 - BasketBody
-- HepaCover
-**Panel Shim** - print the size that matches the gasket thickness for your back panel (i.e. the distance between the extrusion and the panel)
+- HepaCover  
+**Panel Shim** - print the size that matches the gasket thickness for your back panel (i.e. the distance between the extrusion and the panel)  
 **Fan Grilles** - print TWO of each:
 - Grille that matches your panel thickness
 - RetainingRing
