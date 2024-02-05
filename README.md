@@ -36,7 +36,8 @@ Qty | Item
 **Inserts** - print one of each:
 - BasketCover
 - BasketBody
-- HepaCover  
+- HepaCover
+
 **Panel Shim** - print the size that matches the gasket thickness for your back panel (i.e. the distance between the extrusion and the panel)  
 **Fan Grilles** - print TWO of each:
 - Grille that matches your panel thickness
