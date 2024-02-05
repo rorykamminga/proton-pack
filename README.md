@@ -11,7 +11,7 @@ It draws inspiration from the [Pepe Pack](https://github.com/smooshworx/pepe-pac
 ## Bill of Materials  
 
 Qty | Item
---- | ---
+---: | ---
 2 | [Delta KFB0612HAFDB](https://www.digikey.com.au/en/products/detail/delta-electronics/KFB0612HAFDB/9974259)
 1 | 119x43x9-12mm HEPA filter (for robovacs typically, this is the one I got: <https://www.aliexpress.com/item/1005002244857661.html>)
 6 | M2x5mm self-tapping plastic screws
