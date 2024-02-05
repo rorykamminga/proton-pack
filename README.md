@@ -33,17 +33,17 @@ Qty | Item
 - FilterHousingPassthru - for passing the bowden tube through with no threaded coupling
 - FilterHousingBlank - no bowden passthru, for use with internal spool holders
 
-**Inserts** - print one of each:
+**Inserts** - print all:
 - BasketCover
 - BasketBody
 - HepaCover
 
-**Panel Shim** - print the size that matches the gasket thickness for your back panel (i.e. the distance between the extrusion and the panel)  
+**Panel Shim** - print the size that matches the gasket thickness for your back panel (i.e. the thickness of the foam/rubber tape between your extrusions and back panel)  
 **Fan Grilles** - print TWO of each:
 - Grille that matches your panel thickness
 - RetainingRing
 
-There is also a printable ~~triforce~~template for marking out where to drill the necessary panel holes.
+There is also a printable ~~triforce~~ template for marking out where to drill the necessary panel holes.
 This attaches to the two standard exhaust mounting points, the two holes below that indicate the centre of the 54mm intake holes, and the bottom one is for an M3 bolt to pass through.
 
 ## Printing notes
