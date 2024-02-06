@@ -59,14 +59,15 @@ My final prototypes were printed in eSun ABS+ with 2 perimeters and 18% gyroid i
    The fan intake holes need to be 54mm in diameter, and the lower mounting hole needs to allow an M3 bolt to pass through.
 2. While the back panel is off, place the M3 roll-in nut on the vertical brace, just below the belts between the A/B motors (the nut hole should sit ~22mm below the top of the extrusion)
 3. Clip the printed panel shim in over the nut, then replace the panel and make sure the holes line up
-4. Insert 6 threaded inserts into the holes around the edges of the fan housing - 4x on the back side, 2x on the front at the top (be careful with these, as the hole is notably deeper than the insert to account for varying bolt lengths)
-5. Insert the remaining 4 threaded inserts into the basket body
-6. Install 6 of the magnets along the sides of the filter housing, you can use a dab of super glue if it's not a tight fit
-7. Install the remaining magnets in the holes in the HEPA cover and basket cover, again using super glue if necessary (or for peace of mind)
-8. Screw the basket cover onto the basket body using 4x M3x8mm bolts
-9. Thread the fan wires through the cable holes and screw them down with the M2x5mm screws
-10. Insert the thermistor, if using, by passing the wires down the channel on the right then pulling the cartridge into the hole
-11. Trim and terminate the fan and thermistor wires with a microfit connector or similar\*
+4. Install the fan grilles from the front, clipping on the retaining rings at the back
+5. Insert 6 threaded inserts into the holes around the edges of the fan housing - 4x on the back side, 2x on the front at the top (be careful with these, as the hole is notably deeper than the insert to account for varying bolt lengths)
+6. Insert the remaining 4 threaded inserts into the basket body
+7. Install 6 of the magnets along the sides of the filter housing, you can use a dab of super glue if it's not a tight fit
+8. Install the remaining magnets in the holes in the HEPA cover and basket cover, again using super glue if necessary (or for peace of mind)
+9. Screw the basket cover onto the basket body using 4x M3x8mm bolts
+10. Thread the fan wires through the cable holes and screw them down with the M2x5mm screws
+11. Insert the thermistor, if using, by passing the wires down the channel on the right then pulling the cartridge into the hole
+12. Trim and terminate the fan and thermistor wires with a microfit connector or similar\*
     These should have enough length to sit on the other side of the outer passthrough hold (on the side of the fan housing) for easy disconnection
 13. Attach the fan housing to the back panel with 3x M3x12mm bolts (or longer if your back panel and/or sealing strips are thicker than 3-4mm) using the two standard mounting holes at the top (from inside the printer) and the third mounting hole screwing into the roll-in nut at the bottom (from the back of the printer)  
    Ensure that the housing is mounted flush to the panel, and that the shim is holding the panel flat and not causing it to bulge in or out
